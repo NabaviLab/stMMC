@@ -1,4 +1,4 @@
-name: pytorch2
+name: stMMC
 channels:
   - conda-forge
   - defaults
