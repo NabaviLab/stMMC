@@ -1,0 +1,14 @@
+{
+    "dlpfc_151507":{
+        "data_dir": "data/DLPFC/151507",
+        "result_dir": "results/DLPFC/151507",
+        "image_path": "spatial/full_image.tif",
+        "high_res_image_path": "spatial/tissue_hires_image.png",
+        "image_file_path": "features_512.csv",
+        "spatial_path": "spatial/tissue_positions_list.csv",
+        "genome_path": "filtered_feature_bc_matrix.h5",
+        "patch_folder": "patches",
+        "spatial_information_path":"spatial/scalefactors_json.json",
+        "ground_truth_path": "spatial/151507_truth.txt"
+    }
+}
